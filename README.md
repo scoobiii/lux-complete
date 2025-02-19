@@ -1,8 +1,5 @@
 # lux-complete
 
-Aqui está a versão refinada do projeto PIPE FAPESP, destacando os aspectos de CAPEX, OPEX e ROI, considerando os interesses do time de pesquisa, mercado e governo de São Paulo (financiador).
-
-
 ---
 
 PIPE FAPESP – Lux Complete
