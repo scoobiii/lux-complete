@@ -5,7 +5,7 @@
 José S. Sobrinho¹, Ana Lúcia Mendes², Carlos Ribeiro³, Equipe DeepSeek⁴  
 ¹Instituto Avançado de Tecnologias Sustentáveis (IATS), ²NIC.br/CGI.br, ³Gemini Innovations, ⁴DeepSeek Technologies  
 
-**Correspondence to:** sobrinhosj@iats.org  
+**Correspondence to:** sobrinhosj@zoho.com 
 
 ---
 
