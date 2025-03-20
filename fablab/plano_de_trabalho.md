@@ -2,6 +2,8 @@
 
 ## **Plano de Trabalho Final: Lux Complete**
 
+## Agenda: https://calendar.google.com/calendar/u/0?cid=YTljZTIzMWM0ZGZhMmMwMzcxM2M3ZTEwMzBhMDZiYzMyNjNlOGJlZGZkMmMxNzY1YTA5NDdhMjNmYWZkMjk0Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+
 ---
 
 ### **1. Visão Geral**  
