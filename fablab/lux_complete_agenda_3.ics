@@ -1,0 +1,29 @@
+Subject,Start Date,Start Time,End Date,End Time,Description
+Configurar ambiente de desenvolvimento,2025-03-21,16:00,2025-03-21,18:00,Instalar IDEs (Arduino, Python) e configurar ferramentas de linha de comando. Recursos: Computador com IDE Arduino e Python. Entrega: Ambiente configurado.
+Configurar Arduino e Raspberry Pi,2025-03-28,16:00,2025-03-28,18:00,Instalar sistemas operacionais e bibliotecas necessárias. Conectar dispositivos e testar comunicação básica. Recursos: Arduino, Raspberry Pi, fios de ligação, resistores. Entrega: Dispositivos configurados e testados.
+Implementar circuito básico de transmissão de dados,2025-04-04,16:00,2025-04-04,18:00,Montar circuito com LEDs e sensores. Escrever programa simples para transmissão de dados. Recursos: LEDs, sensores, protoboard, fios de ligação. Entrega: Circuito funcional.
+Testar e depurar circuito e programa,2025-04-11,16:00,2025-04-11,18:00,Realizar testes de transmissão de dados. Identificar e corrigir bugs. Recursos: Multímetro, osciloscópio (se disponível). Entrega: Circuito e programa depurados.
+Documentar processo e resultados,2025-04-18,16:00,2025-04-18,18:00,Criar relatório técnico com diagramas e código fonte. Recursos: Google Docs, Confluence. Entrega: Relatório técnico.
+Pesquisar e selecionar módulos SFP ou transceivers óticos,2025-04-25,16:00,2025-04-25,18:00,Identificar modelos compatíveis com Arduino e Raspberry Pi. Recursos: Catálogos de fornecedores, suporte técnico do Fab Lab. Entrega: Lista de módulos selecionados.
+Solicitar módulos ao Fab Lab ou providenciar compra,2025-05-02,16:00,2025-05-02,18:00,Enviar lista de materiais ao Fab Lab. Recursos: Lista de materiais, orçamento aprovado. Entrega: Módulos solicitados ou comprados.
+Integrar módulos ao circuito existente,2025-05-09,16:00,2025-05-09,18:00,Conectar módulos SFP ao circuito. Adaptar programa para transmissão óptica. Recursos: Módulos SFP, fibra óptica, adaptadores. Entrega: Circuito com interfaces ópticas.
+Testar e depurar integração óptica,2025-05-16,16:00,2025-05-16,18:00,Realizar testes de transmissão óptica. Ajustar configurações e corrigir falhas. Recursos: Equipamentos de medição de sinal óptico. Entrega: Transmissão óptica funcional.
+Documentar processo e resultados,2025-05-23,16:00,2025-05-23,18:00,Atualizar relatório técnico com novos dados. Recursos: Google Docs, Confluence. Entrega: Relatório técnico atualizado.
+Pesquisar e selecionar materiais para POP Glass,2025-05-30,16:00,2025-05-30,18:00,Filmes poliméricos fotovoltaicos, vidro reciclado. Recursos: Catálogos de fornecedores, suporte técnico do Fab Lab. Entrega: Lista de materiais selecionados.
+Elaborar design do POP Glass,2025-06-06,16:00,2025-06-06,18:00,Definir tamanho, espessura e camadas. Criar modelos 3D no AutoCAD/SolidWorks. Recursos: Software de modelagem 3D. Entrega: Design do POP Glass.
+Construir protótipo em escala reduzida,2025-06-13,16:00,2025-06-13,18:00,Cortar e laminar vidro e filmes fotovoltaicos. Recursos: Equipamentos de corte e laminação do Fab Lab. Entrega: Protótipo do POP Glass.
+Testar eficiência da captação de energia solar,2025-06-20,16:00,2025-06-20,18:00,Medir eficiência energética do protótipo. Recursos: Equipamentos de medição de eficiência energética. Entrega: Dados de eficiência energética.
+Documentar processo e resultados,2025-06-27,16:00,2025-06-27,18:00,Criar relatório técnico com dados de eficiência. Recursos: Google Docs, Confluence. Entrega: Relatório técnico.
+Desenvolver algoritmos de IA para monitoramento,2025-07-04,16:00,2025-07-04,18:00,Usar TensorFlow/PyTorch para criar modelos de otimização. Recursos: Computador com GPU, bibliotecas de IA. Entrega: Modelos de IA.
+Integrar IA ao sistema existente,2025-07-11,16:00,2025-07-11,18:00,Conectar modelos de IA ao circuito e sensores. Recursos: Raspberry Pi, sensores fotônicos. Entrega: Sistema com IA integrada.
+Testar e ajustar integração de IA,2025-07-18,16:00,2025-07-18,18:00,Realizar testes de monitoramento e otimização. Recursos: Equipamentos de medição. Entrega: Sistema otimizado.
+Documentar processo e resultados,2025-07-25,16:00,2025-07-25,18:00,Atualizar relatório técnico com dados de IA. Recursos: Google Docs, Confluence. Entrega: Relatório técnico atualizado.
+Configurar redes ópticas híbridas,2025-08-01,16:00,2025-08-01,18:00,Integrar fibras ópticas e sensores fotônicos. Recursos: Fibras ópticas, sensores fotônicos. Entrega: Redes ópticas configuradas.
+Realizar testes de transmissão de dados e energia,2025-08-08,16:00,2025-08-08,18:00,Medir eficiência e velocidade de transmissão. Recursos: Equipamentos de medição de sinal óptico. Entrega: Dados de testes.
+Documentar processo e resultados,2025-08-15,16:00,2025-08-15,18:00,Criar relatório técnico com dados de testes. Recursos: Google Docs, Confluence. Entrega: Relatório técnico.
+Identificar parceiros potenciais,2025-08-22,16:00,2025-08-22,18:00,Universidades, centros de pesquisa, empresas de tecnologia. Recursos: Lista de contatos, suporte do Fab Lab. Entrega: Lista de parceiros.
+Estabelecer acordos de colaboração,2025-08-29,16:00,2025-08-29,18:00,Definir termos de parceria e responsabilidades. Recursos: Modelos de contrato, suporte jurídico. Entrega: Acordos formalizados.
+Documentar acordos e próximos passos,2025-09-05,16:00,2025-09-05,18:00,Criar relatório com detalhes das parcerias. Recursos: Google Docs, Confluence. Entrega: Relatório de parcerias.
+Identificar aplicações comerciais,2025-09-12,16:00,2025-09-12,18:00,IoT, cidades inteligentes, data centers. Recursos: Pesquisa de mercado, suporte técnico. Entrega: Lista de aplicações.
+Desenvolver protótipos comerciais,2025-09-19,16:00,2025-09-19,18:00,Adaptar POP Glass para aplicações específicas. Recursos: Equipamentos do Fab Lab. Entrega: Protótipos comerciais.
+Documentar processo e resultados,2025-09-26,16:00,2025-09-26,18:00,Criar relatório técnico e comercial. Recursos: Google Docs, Confluence. Entrega: Relatório final.
