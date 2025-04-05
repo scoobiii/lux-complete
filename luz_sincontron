@@ -1,0 +1,149 @@
+
+
+## Projeto 1: **Simulador de Luz Sincrotron para Educação Científica**
+### README.md
+```markdown
+# Simulador de Luz Sincrotron
+**Objetivo**: Demonstrar os princípios da radiação sincrotron usando LEDs, motores e microcontroladores.
+
+## Equipe
+- **Físico**: Responsável pelo modelo teórico.
+- **Engenheiro Mecânico**: Projeto do anel de aceleração.
+- **Designer**: Interface educativa.
+- **Educador**: Workshops para escolas.
+
+## Tempo
+- **Duração**: 12 semanas.
+- **Etapas**: Protótipo (4 semanas), Testes (4 semanas), Finalização (4 semanas).
+
+## Recursos Necessários
+| Item                | Fabricante/Modelo          | Preço (R$) | Disponível no Fab Lab? |
+|---------------------|----------------------------|------------|------------------------|
+| Microcontrolador    | Arduino Mega               | R$ 300     | Sim                    |
+| Motores PWM         | NEMA 17                    | R$ 200     | Não (comprar)          |
+| LEDs UV             | Nichia NCSU033A            | R$ 1.500   | Não (comprar)          |
+| Estrutura em Acrílico| Cortes a laser            | R$ 800     | Sim                    |
+
+## Verba Necessária
+- **Total**: R$ 2.800 (para motores e LEDs).
+- **Emenda Parlamentar**: Solicitar R$ 5.000 via vereador **Eduardo Suplicy** (foco em educação tecnológica).
+
+## Diagrama de Processo
+1. Projeto 3D do anel (Fusion 360).
+2. Corte a laser da estrutura.
+3. Montagem dos motores e LEDs.
+4. Programação do Arduino para simular trajetórias.
+
+## Licenças e Patentes
+- **Licença**: Open-source (CC BY-SA 4.0).
+- **Patente**: Não aplicável (uso educacional).
+
+## ROI para ITS/Prefeitura
+- **Ganhos**: Workshops para 500 alunos/ano (valor social).
+- **Parcerias**: USP, Instituto de Física de São Paulo.
+```
+
+---
+
+## Projeto 2: **Demonstrador de Teletransporte Quântico com Fótons**
+### README.md
+```markdown
+# Teletransporte Quântico Básico
+**Objetivo**: Simular emaranhamento quântico usando pares de fótons polarizados.
+
+## Equipe
+- **Físico Quântico**: Configuração experimental.
+- **Engenheiro Eletrônico**: Circuitos de detecção.
+- **Programador Python**: Análise de dados.
+
+## Recursos
+| Item                | Fabricante/Modelo          | Preço (R$) | Disponível? |
+|---------------------|----------------------------|------------|-------------|
+| Laser Diode         | Thorlabs CPS405            | R$ 3.000   | Não         |
+| Divisor de Feixe    | Edmund Optics 50:50        | R$ 1.200   | Não         |
+| Detectores de Fótons| Raspberry Pi + Sensores    | R$ 800     | Sim         |
+
+## Verba e Emenda
+- **Custo Total**: R$ 5.000.
+- **Emenda Parlamentar**: R$ 7.000 via **Vereadora Soninha Francine** (STEM para jovens).
+
+## ROI
+- **Patente**: Método de simulação educacional (INPI).
+- **Receita**: Cursos de extensão (R$ 200/aluno).
+```
+
+---
+
+## Projeto 3: **Kit de Comunicação por Fibra Óptica**
+### README.md
+```markdown
+# Kit de Fibra Óptica para Escolas
+**Objetivo**: Ensinar transmissão de dados com lasers e fibras.
+
+## Recursos
+| Item                | Fabricante/Modelo          | Preço (R$) |
+|---------------------|----------------------------|------------|
+| Fibra Óptica        | Corning SMF-28             | R$ 500/m   |
+| Laser Diode         | Osram SFH 4735             | R$ 300     |
+| Fotodetector        | TEMD6200FX01               | R$ 150     |
+
+## Processo Fabril
+1. Montagem do transmissor/receptor.
+2. Testes de transmissão de dados binários.
+
+## Licenças
+- **Certificação**: ANATEL para experimentos de baixa potência.
+```
+
+---
+
+## Projeto 4: **Protótipo de Computação Fotônica**
+### README.md
+```markdown
+# Computador Fotônico Básico
+**Objetivo**: Demonstrar portas lógicas com luz.
+
+## Equipamentos
+- **Impressora 3D**: Creality Ender 3 (R$ 1.200).
+- **Interferômetro**: Montagem customizada (R$ 2.000).
+
+## ROI
+- **Patente**: Design de circuitos fotônicos (potencial licenciamento).
+- **Parcerias**: Empresas de telecomunicações (Vivo, TIM).
+```
+
+---
+
+## Cálculo de ROI para o ITS Fab Lab
+| Projeto          | Custo Total (R$) | Receita Anual (R$) | ROI (%) |
+|------------------|-------------------|---------------------|---------|
+| Luz Sincrotron   | 5.000             | 8.000 (oficinas)    | 60%     |
+| Fibra Óptica     | 3.500             | 6.000 (kits vendidos)| 71%     |
+| Teletransporte   | 7.000             | 10.000 (cursos)     | 43%     |
+
+---
+
+## Licenças e Patentes
+- **Licenças**: ISSO 9001 para laboratórios educacionais.
+- **Patentes**: Registrar métodos de simulação quântica e circuitos fotônicos.
+
+---
+
+## Vereador e Emenda Parlamentar
+- **Vereador Escolhido**: **Eduardo Suplicy** (foco em educação e tecnologia).
+- **Emenda**: R$ 20.000 via **Programa de Inovação Tecnológica do ITS**.
+- **Gestor do ITS**: João Carlos Silva (responsável pela verba).
+
+---
+
+### Resumo Executivo
+- **Custo Total dos Projetos**: R$ 23.500.
+- **ROI Médio**: 58% em 2 anos.
+- **Impacto Social**: 2.000 estudantes/ano capacitados em óptica e quântica.
+
+**Próximos Passos**: 
+1. Aprovação da emenda parlamentar.
+2. Compra de insumos não disponíveis no Fab Lab.
+3. Treinamento da equipe. 
+
+Projetos como o **Simulador de Sincrotron** podem posicionar o Fab Lab Galeria Olido como referência em educação científica! 🚀
