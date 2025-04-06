@@ -188,89 +188,89 @@ O sistema pode ser configurado para emitir respostas ou gerar novos dados a part
 
 O repositório GitHub “lux-complete” é organizado da seguinte forma:
 
-lux-complete/
-├── README.md
-├── LICENSE
-├── docs/
-│   ├── architecture.md        # Descrição detalhada da arquitetura
-│   ├── photonring.md          # Documentação do PhotonRingStorage
-│   ├── vm_design.md           # Especificações do LuxVM
-│   ├── runtime.md             # Documentação do LuxOS e runtime
-│   └── hardware_setup.md      # Fichas técnicas e integração do hardware
-│
-├── hardware/
-│   ├── photonring/            # Componentes e esquemas do anel óptico
-│   │   ├── schematics/
-│   │   │   ├── photonring_circuit.fzz
-│   │   │   └── eagle_design.sch
-│   │   ├── firmware/
-│   │   │   ├── main.ino
-│   │   │   └── lux_control.h
-│   │   └── README.md
-│   └── emitter_detector/      # Componentes de emissão e detecção ótica
-│       ├── laser_driver/
-│       ├── photodetector/
-│       └── eom_modulator/
-│
-├── software/
-│   ├── elux/                  # Linguagem de programação e compilador eLux
-│   │   ├── parser/
-│   │   │   └── parser.rs
-│   │   ├── compiler/
-│   │   │   └── compiler.rs
-│   │   ├── syntax/
-│   │   │   └── grammar.elux
-│   │   └── examples/
-│   │       ├── ola_lux.elux
-│   │       └── piscar.elux
-│   │
-│   ├── luxvm/                 # Máquina Virtual e runtime
-│   │   ├── interpreter.rs
-│   │   ├── bytecode.rs
-│   │   ├── runtime.rs
-│   │   └── README.md
-│   │
-│   ├── luxos/                 # Sistema Operacional LuxOS
-│   │   ├── scheduler.rs
-│   │   ├── fs.rs
-│   │   ├── process.rs
-│   │   └── drivers/
-│   │       └── modulator.rs
-│   │
-│   ├── lvm/                   # Conversores para linguagens legadas
-│   │   ├── converter/
-│   │   │   ├── from_python.rs
-│   │   │   ├── from_c.rs
-│   │   │   └── from_js.rs
-│   │   └── README.md
-│   │
-│   └── simulator/             # Ambiente de simulação e interface gráfica
-│       ├── gui_simulator.py
-│       ├── backend_engine.rs
-│       └── assets/
-│           └── lux_logo.png
-│
-├── examples/                  # Exemplos de códigos e simulações
-│   ├── piscar/
-│   │   ├── piscar.elux
-│   │   ├── piscar.bytecode
-│   │   └── README.md
-│   └── ola_mundo/
-│       ├── ola.elux
-│       ├── ola.bytecode
-│       └── screenshot.png
-│
-├── tests/                     # Testes unitários, de integração e de hardware
-│   ├── unit/
-│   ├── integration/
-│   └── hardware_tests/
-│
-└── tools/                     # Ferramentas auxiliares para visualização e análise
-    ├── bytecode_visualizer/
-    │   └── visualize.py
-    └── fiber_analyzer/
-        └── oscilloscope_bridge.py
-
+    lux-complete/
+    ├── README.md
+    ├── LICENSE
+    ├── docs/
+    │   ├── architecture.md        # Descrição detalhada da arquitetura
+    │   ├── photonring.md          # Documentação do PhotonRingStorage
+    │   ├── vm_design.md           # Especificações do LuxVM
+    │   ├── runtime.md             # Documentação do LuxOS e runtime
+    │   └── hardware_setup.md      # Fichas técnicas e integração do hardware
+    │
+    ├── hardware/
+    │   ├── photonring/            # Componentes e esquemas do anel óptico
+    │   │   ├── schematics/
+    │   │   │   ├── photonring_circuit.fzz
+    │   │   │   └── eagle_design.sch
+    │   │   ├── firmware/
+    │   │   │   ├── main.ino
+    │   │   │   └── lux_control.h
+    │   │   └── README.md
+    │   └── emitter_detector/      # Componentes de emissão e detecção ótica
+    │       ├── laser_driver/
+    │       ├── photodetector/
+    │       └── eom_modulator/
+    │
+    ├── software/
+    │   ├── elux/                  # Linguagem de programação e compilador eLux
+    │   │   ├── parser/
+    │   │   │   └── parser.rs
+    │   │   ├── compiler/
+    │   │   │   └── compiler.rs
+    │   │   ├── syntax/
+    │   │   │   └── grammar.elux
+    │   │   └── examples/
+    │   │       ├── ola_lux.elux
+    │   │       └── piscar.elux
+    │   │
+    │   ├── luxvm/                 # Máquina Virtual e runtime
+    │   │   ├── interpreter.rs
+    │   │   ├── bytecode.rs
+    │   │   ├── runtime.rs
+    │   │   └── README.md
+    │   │
+    │   ├── luxos/                 # Sistema Operacional LuxOS
+    │   │   ├── scheduler.rs
+    │   │   ├── fs.rs
+    │   │   ├── process.rs
+    │   │   └── drivers/
+    │   │       └── modulator.rs
+    │   │
+    │   ├── lvm/                   # Conversores para linguagens legadas
+    │   │   ├── converter/
+    │   │   │   ├── from_python.rs
+    │   │   │   ├── from_c.rs
+    │   │   │   └── from_js.rs
+    │   │   └── README.md
+    │   │
+    │   └── simulator/             # Ambiente de simulação e interface gráfica
+    │       ├── gui_simulator.py
+    │       ├── backend_engine.rs
+    │       └── assets/
+    │           └── lux_logo.png
+    │
+    ├── examples/                  # Exemplos de códigos e simulações
+    │   ├── piscar/
+    │   │   ├── piscar.elux
+    │   │   ├── piscar.bytecode
+    │   │   └── README.md
+    │   └── ola_mundo/
+    │       ├── ola.elux
+    │       ├── ola.bytecode
+    │       └── screenshot.png
+    │
+    ├── tests/                     # Testes unitários, de integração e de hardware
+    │   ├── unit/
+    │   ├── integration/
+    │   └── hardware_tests/
+    │
+    └── tools/                     # Ferramentas auxiliares para visualização e análise
+        ├── bytecode_visualizer/
+        │   └── visualize.py
+        └── fiber_analyzer/
+            └── oscilloscope_bridge.py
+    
 
 ---
 
