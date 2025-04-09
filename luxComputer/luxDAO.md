@@ -97,7 +97,7 @@ graph LR
 - **Auditoria**: CertiK + OpenZeppelin  
 
 > **Endereço Oficial:** `0xLUX59049...` (Ethereum Mainnet)  
-> **Whitepaper:** [luxdao.org/whitepaper](https://luxdao.org/whitepaper)  
+> **Whitepaper:** {em manutenção}[luxdao.org/whitepaper](https://luxdao.org/whitepaper)  
 
 **Assinaturas Digitais:**  
 - `JSS/DAO/2024/1053059893`  
