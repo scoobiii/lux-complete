@@ -64,6 +64,3 @@ Etapas Futuras:
 3. Publicar esse organograma no whitepaper + site.
 
 
-
-Quer que eu gere o gráfico visual do organograma e um arquivo organograma.pdf com essa estrutura?
-
