@@ -102,9 +102,9 @@ endmodule
 | Q2 2025 | Tape-out PIC | 10k unidades |
 
 ## **6. Repositórios e Licenciamento**
-- **Código Quântico**: [github.com/lux-cloud/q-lux]{ {em manutenção}}(https://github.com/lux-cloud/q-lux) (Apache 2.0)
-- **Firmware Peltier**: [gitlab.com/lux-thermal] {em manutenção}(https://gitlab.com/lux-thermal) (MIT)
+- **Código Quântico**: {em manutenção}[github.com/lux-cloud/q-lux]{ {em manutenção}}(https://github.com/lux-cloud/q-lux) (Apache 2.0)
+- **Firmware Peltier**:  {em manutenção} [gitlab.com/lux-thermal] {em manutenção}(https://gitlab.com/lux-thermal) (MIT)
 - **HDK LuxNet**: Disponível sob NDA para parceiros
 
 > **Nota**: Todos os sistemas serão demonstrados no Fórum Internacional de Fotônica (Out/2024).  
-> **Contato**: R&D Team - research@lux-cloud.org {em manutenção}
+> **Contato**: R&D Team -  {em manutenção} research@lux-cloud.org {em manutenção}
