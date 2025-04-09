@@ -106,5 +106,6 @@ endmodule
 - **Firmware Peltier**:  {em manutenção} [gitlab.com/lux-thermal] {em manutenção}(https://gitlab.com/lux-thermal) (MIT)
 - **HDK LuxNet**: Disponível sob NDA para parceiros
 
-> **Nota**: Todos os sistemas serão demonstrados no Fórum Internacional de Fotônica (Out/2024).  
+> **Nota**: Todos os sistemas serão demonstrados no Fórum Int
+ernacional de Fotônica (Out/2026).  
 > **Contato**: R&D Team -  {em manutenção} research@lux-cloud.org {em manutenção}
