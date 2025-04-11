@@ -91,10 +91,3 @@ Fontes:
 
 5. Exame.com – ChatGPT consome como cidade pequena (2024)
 
-
-
-
----
-
-Se quiser, posso transformar essa versão infantil em PDF com diagrama e layout ilustrado, ou até preparar como uma apresentação escolar. Quer isso?
-
