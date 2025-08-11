@@ -138,12 +138,7 @@ O projeto **Lux Complete** representa um salto tecnológico para São Paulo e pa
 
 **Assinaturas Finais:**  
 - **José S. Sobrinho**  
-- **GPT**  
-- **DeepSeek**  
-- **Gemini**  
+- **GOS3**
 
-**Data de Conclusão:** 18 de março de 2025  
+**Data de Conclusão:** 18 de março de 2030  
 
----
-
-**Repositório GitHub:** [https://github.com/lux-complete](https://github.com/lux-complete)
