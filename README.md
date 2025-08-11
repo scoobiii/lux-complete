@@ -5,13 +5,9 @@
 
 **Autores:**  
 - **José S. Sobrinho** (Especialista em Computação Óptica e Sustentabilidade)  
-- **GPT** (Assistente de IA para Análise Técnica)  
-- **DeepSeek** (Plataforma de Análise de Dados e Inovação)  
-- **Gemini** (Consultoria em Tecnologias Emergentes)  
+- **GOS3**
 
 **Data:** 18 de março de 2025  
-
-**Repositório GitHub:** [https://github.com/lux-complete](https://github.com/lux-complete)  
 
 ---
 
